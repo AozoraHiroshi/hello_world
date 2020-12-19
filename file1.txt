@@ -6,6 +6,6 @@ file1
 
 4回目の編集です。
 
-5回目の編集です。devlop
+6回目の編集です。devlop
 
 Aさんの変更です　develop
